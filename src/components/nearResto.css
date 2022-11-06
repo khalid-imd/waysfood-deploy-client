@@ -1,0 +1,15 @@
+.title-near {
+  font-family: "Times New Roman", Times, serif;
+}
+
+.title-restaurant {
+  font-family: "Times New Roman", Times, serif;
+}
+
+.label {
+  width: 250px;
+}
+.link {
+  text-decoration: none !important;
+  color: black;
+}

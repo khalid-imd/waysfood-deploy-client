@@ -1,0 +1,15 @@
+.button{
+    background: #433434 !important;
+    border: none;
+    color: white;
+}
+
+.title{
+    font-family: Abhaya Libre ExtraBold;
+    font-size: 36px;
+    font-weight: 800;
+    line-height: 42px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+

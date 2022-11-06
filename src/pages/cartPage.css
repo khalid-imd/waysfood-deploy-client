@@ -1,0 +1,51 @@
+.button {
+  background: #433434 !important;
+  border: none;
+  color: white;
+}
+
+.bottom-border {
+  border-bottom: 1px black solid;
+}
+
+.title {
+  font-family: "Abhaya Libre ExtraBold";
+  font-style: normal;
+  font-weight: 800;
+  font-size: 36px;
+  line-height: 42px;
+
+  color: #000000;
+}
+
+.sub {
+  font-family: "Avenir";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 25px;
+  /* identical to box height */
+
+  color: #613d2b;
+}
+
+.menu-name {
+  font-family: "Abhaya Libre ExtraBold";
+  font-style: normal;
+  /* identical to box height */
+  color: #000000;
+}
+
+.price {
+  font-family: "Avenir";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 19px;
+
+  color: #ff0000;
+}
+
+.top-border {
+  border-top: #000000 solid solid;
+}

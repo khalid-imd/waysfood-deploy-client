@@ -1,0 +1,56 @@
+.title {
+  font-family: Abhaya Libre ExtraBold;
+  font-size: 36px;
+  font-weight: 800;
+  line-height: 42px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+.icon {
+  display: flex;
+  justify-content: center;
+}
+
+.button {
+  border: none;
+  font-weight: bold;
+  border-radius: 5px;
+}
+
+.red {
+  background: #ff0742 !important;
+}
+
+.green {
+  background: #0acf83 !important;
+}
+
+.waiting {
+  font-family: "Avenir";
+  font-style: normal;
+  color: #ff9900;
+}
+
+.sucsess {
+  font-family: "Avenir";
+  font-style: normal;
+
+  color: #78a85a;
+}
+
+.cancel {
+  font-family: "Avenir";
+  font-style: normal;
+  color: #e83939;
+}
+
+.otw {
+  font-family: "Inter";
+  font-style: normal;
+  color: #00d1ff;
+}
+
+.bg-history {
+  background-color: white;
+}

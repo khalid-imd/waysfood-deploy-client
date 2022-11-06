@@ -1,0 +1,51 @@
+.register-login {
+  width: 100px;
+  height: 30px;
+  left: 1159px;
+  top: 27px;
+
+  background: #433434;
+  border-radius: 5px;
+  color: white;
+  border: none !important;
+  font-weight: bold;
+}
+
+.color {
+  background-color: #ffc700;
+}
+
+.bg-brown {
+  background: #433434 !important;
+}
+
+.bold {
+  font-weight: bold !important;
+}
+
+.modal-title {
+  font-family: "Avenir";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 36px;
+  line-height: 49px;
+
+  color: #ffc700;
+}
+
+.bg-form {
+  background: #d2d2d2 !important;
+}
+
+.text.form {
+  color: #b1b1b1;
+}
+
+.transparent {
+  background-color: transparent !important;
+}
+
+.bg-badge {
+  background: #f13f3f !important;
+  position: absolute;
+}

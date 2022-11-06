@@ -1,0 +1,16 @@
+.bg-menu{
+    background: #E5E5E5;
+}
+
+.bg-order{
+    background: #FFC700 !important;
+}
+
+.text-red{
+   color: #FF1515;
+}
+
+.title{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
